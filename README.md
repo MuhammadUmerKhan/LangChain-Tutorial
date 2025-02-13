@@ -24,7 +24,7 @@ Welcome to the LangChain Crash Course repository! This repo contains all the cod
    ```bash
    <!-- TODO: UPDATE TO MY  -->
    git clone https://github.com/MuhammadUmerKhan/LangChain-Tutorial.git
-   cd langchain-crash-course
+   cd LangChain-Tutorial
    ```
 
 2. Install dependencies using Poetry:
@@ -41,13 +41,7 @@ Welcome to the LangChain Crash Course repository! This repo contains all the cod
    mv .env.example .env
    ```
 
-4. Activate the Poetry shell to run the examples:
-
-   ```bash
-   poetry shell
-   ```
-
-5. Run the code examples:
+4. Run the code examples:
 
    ```bash
     python3 1_chat_models/1_chat_model_basic.py
